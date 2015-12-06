@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael But]]></title>
+        <description><![CDATA[Michael But]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Dec 2015 16:40:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[confused.]]></title>
+            <description><![CDATA[<article><h1>confused.</h1><p>This is a test on how this will work. I am still figuring  out this user interface, so far I am pretty confused on how to use it.</p></article>]]></description>
+            <link>undefinedconfused/index.html</link>
+            <guid isPermaLink="false">3b834454-38f1-45e5-9a44-3329c9ec54d3</guid>
+            <pubDate>Sun, 06 Dec 2015 16:40:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
