@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Michael But]]></title>
         <description><![CDATA[Michael But]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-but/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 16:40:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 16:44:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-but/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[confused.]]></title>
-            <description><![CDATA[<article><h1>confused.</h1><p>This is a test on how this will work. I am still figuring  out this user interface, so far I am pretty confused on how to use it.</p></article>]]></description>
-            <link>undefinedconfused/index.html</link>
+            <description><![CDATA[<article><h1>confused.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49d75f01278557718d8304ba4e465253a2f2268d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-but/confused/index.html</link>
             <guid isPermaLink="false">3b834454-38f1-45e5-9a44-3329c9ec54d3</guid>
-            <pubDate>Sun, 06 Dec 2015 16:40:09 GMT</pubDate>
+            <pubDate>Sun, 06 Dec 2015 16:44:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
