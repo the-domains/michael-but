@@ -1,7 +1,7 @@
 name: Michael But
 favicon: null
-layout_spectrum: 0.06527504720725119
-typography_spectrum: 0.5305456649512053
+layout_spectrum: 0.96537
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.4447213979437947
-  lightness: 0.46910378243774176
-  saturation: 0.00569722824729979
-  rhythmicContrast: 0.13210891606286168
+    - '#6593e0'
+    - '#b9d5ed'
+    - '#060409'
+    - '#4e4f49'
+    - '#a19c64'
+  brandStrength: 0.0625
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
