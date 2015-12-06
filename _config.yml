@@ -1,0 +1,28 @@
+name: Michael But
+favicon: null
+layout_spectrum: 0.06527504720725119
+typography_spectrum: 0.5305456649512053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4447213979437947
+  lightness: 0.46910378243774176
+  saturation: 0.00569722824729979
+  rhythmicContrast: 0.13210891606286168
+purpose: []
